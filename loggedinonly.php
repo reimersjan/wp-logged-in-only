@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Logged-in-only
-Plugin URI: http://www.janreimers.net
+Plugin URI: https://github.com/reimersjan/wp-logged-in-only
 Description: Lock down the whole site to prevent public access. Only logged-in users can view the site if this plugin is activated.
 Author: Jan Reimers
 Version: 1.0
 Author URI: http://www.janreimers.net
-License: GPL2
+License: GPLv2
 */
 
 function logged_in_only() {

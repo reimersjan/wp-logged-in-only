@@ -5,7 +5,7 @@ Plugin URI: https://github.com/reimersjan/wp-logged-in-only
 Description: Lock down the whole site to prevent public access. Only logged-in users can view the site if this plugin is activated.
 Author: Jan Reimers
 Version: 1.0
-Author URI: http://www.janreimers.net
+Author URI: http://www.jan.rs
 License: GPLv2
 */
 

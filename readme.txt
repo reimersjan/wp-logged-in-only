@@ -1,4 +1,4 @@
-=== logged in only ===
+=== Logged-in-only ===
 Contributors: janreim
 Tags: authentication, login, password
 Requires at least: 3.0.1

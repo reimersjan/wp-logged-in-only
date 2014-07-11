@@ -1,5 +1,5 @@
 === Logged-in-only ===
-Contributors: janreim
+Contributors: janreim, drivingralle
 Tags: authentication, login, password
 Requires at least: 3.0.1
 Tested up to: 3.9.1
@@ -19,3 +19,10 @@ Only logged-in users can view the site if this plugin is activated.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Your site is locked down to the public.
 
+== Changelog ==
+
+= 1.0.2 =
+* Codestyling by drivingralle
+
+= 1.0.1 =
+* initial commit

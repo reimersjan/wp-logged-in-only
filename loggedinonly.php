@@ -15,3 +15,12 @@ function logged_in_only() {
 	}
 }
 add_action( 'template_redirect', 'logged_in_only' );
+
+/*
+ * Reset the password reset url to wp default
+ */
+function logged_in_only_password_reset_url_reset() {
+	// Unset the password reset url filter from WooCommerce	
+	remove_filter( 'lostpassword_url', 'wc_lostpassword_url', 10 );
+}
+add_action( 'plugins_loaded', 'logged_in_only_password_reset_url_reset' );

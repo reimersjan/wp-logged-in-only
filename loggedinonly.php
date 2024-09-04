@@ -4,7 +4,7 @@ Plugin Name: Logged-in-only
 Plugin URI: https://github.com/reimersjan/wp-logged-in-only
 Description: Lock down the whole WordPress site to prevent public access. Only logged-in users can view the site or the content of the REST API if this plugin is activated.
 Author: Drivingralle
-Version: 2.1.2
+Version: 2.1.3
 Author URI: https://www.drivingralle.de
 License: GPLv2
 */

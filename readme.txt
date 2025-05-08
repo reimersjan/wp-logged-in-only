@@ -3,7 +3,7 @@ Contributors: janreim, drivingralle
 Tags: authentication, login, user, simple, REST API
 Requires at least: 3.0.1
 Requires PHP: 5.3
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 2.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -3,8 +3,8 @@ Contributors: janreim, drivingralle
 Tags: authentication, login, user, simple, REST API
 Requires at least: 3.0.1
 Requires PHP: 5.3
-Tested up to: 7.0
-Stable tag: 2.1.5
+Tested up to: 7.1
+Stable tag: 2.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ This plugin is very simple and can also be used as a must-use plugin. That way n
 3. Your site is locked down to the public.
 
 == Changelog ==
+
+= 2.1.6 - 2026-08-31 =
+* Tested up to WordPress 7.1.
 
 = 2.1.5 - 2026-05-27 =
 * Tested up to WordPress 7.0.
